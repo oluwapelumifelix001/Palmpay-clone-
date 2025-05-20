@@ -390,8 +390,7 @@ li {
 }
 @media screen and (max-width:500px) {
     .join {
-            padding: 15px 35px 5px 25px;
-
+        padding: 10px 5px 10px 5px;
     }
     .join h1 {
         font-size: 5px;
@@ -400,11 +399,11 @@ li {
         width: 5%;
     }
     #joinimg {
-width:5%;
-margin-left: 180px;
+width:16%;
+margin-left: 150px;
 }
 #joinimgtw {
-    width: 5%;
+    width: 16%;
 
 }
 .security {
@@ -427,7 +426,10 @@ border-radius:  05px;
     padding-bottom: 20px;
 }
 .sec2 h1 {
-    font-size: 20px;
+    font-size: 15px;
+}
+.sec2 p {
+    font-size: 15px;
 }
 .contact {
         display: inline-block;
@@ -450,7 +452,7 @@ border-radius:  05px;
 }
 .cont1 h1 {
     justify-content: space-between;
-    font-size: 20px;
+    font-size: 18px;
     padding-bottom: 15px;
 }
 .cont1 p {
