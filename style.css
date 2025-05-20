@@ -4,9 +4,6 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-body {
-    border: red 2px solid;
-}
 .nav {
     display: flex;
     justify-content: space-between;
